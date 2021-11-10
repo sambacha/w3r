@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "8.1.0",
+  "version": "8.1.1",
   "type": "module",
   "files": [
     "./dist"
@@ -19,8 +19,8 @@
     "start": "tsc --watch"
   },
   "dependencies": {
-    "@wwwr/store": "^8.1.0",
-    "@wwwr/types": "^8.1.0"
+    "@wwwr/store": "^8.1.1",
+    "@wwwr/types": "^8.1.1"
   },
   "peerDependencies": {
     "@ethersproject/providers": "^5.4.5",
